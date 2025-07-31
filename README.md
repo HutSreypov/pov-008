@@ -74,3 +74,6 @@ nav{
 
 CSS framework [Tailwindcss](https://www.w3schools.com/tags/tag_form.asp)
 
+## Image 
+
+![Dashboard](./ka.jpeg)
