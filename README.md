@@ -37,3 +37,27 @@
 > composer install
 
 > pip install
+
+## Cpde online
+`print('hello pov')`
+
+`npm install express`
+
+## Code multiple line
+
+```html
+<h1> hello pov </h1>
+<p> this is my class</p>
+```
+
+```python
+for i in range(10):
+    print(i)
+
+```
+```css
+nav{
+    display:flex;
+    gap: 20px;
+}
+
