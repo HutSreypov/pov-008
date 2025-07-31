@@ -60,4 +60,12 @@ nav{
     display:flex;
     gap: 20px;
 }
+```
+
+## Check list
+
+- [X] Home page
+- [X] About page
+- [ ] product page
+- [ ] cotact page
 
